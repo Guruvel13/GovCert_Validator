@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Anna University",
+    "shortCode": "anna_university",
+    "country": "India",
+    "validFrom": "2020-01-01",
+    "validUntil": "2035-12-31",
+    "isActive": true,
+    "description": "State Technical University of Tamil Nadu established in 1978. Issues engineering and technology degrees."
+  },
+  {
+    "name": "IIT Madras",
+    "shortCode": "iit_madras",
+    "country": "India",
+    "validFrom": "2018-01-01",
+    "validUntil": "2035-12-31",
+    "isActive": true,
+    "description": "Indian Institute of Technology Madras — premier engineering institution under the Ministry of Education."
+  },
+  {
+    "name": "CBSE",
+    "shortCode": "cbse",
+    "country": "India",
+    "validFrom": "2015-01-01",
+    "validUntil": "2035-12-31",
+    "isActive": true,
+    "description": "Central Board of Secondary Education — national level board of education for public and private schools."
+  },
+  {
+    "name": "NIC",
+    "shortCode": "nic",
+    "country": "India",
+    "validFrom": "2019-01-01",
+    "validUntil": "2035-12-31",
+    "isActive": true,
+    "description": "National Informatics Centre — issues government IT training and certification documents."
+  },
+  {
+    "name": "UGC",
+    "shortCode": "ugc",
+    "country": "India",
+    "validFrom": "2017-01-01",
+    "validUntil": "2035-12-31",
+    "isActive": true,
+    "description": "University Grants Commission — regulatory body for higher education institutions in India."
+  }
+]
